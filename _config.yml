@@ -1,0 +1,28 @@
+name: bonnie sun kim
+favicon: null
+layout_spectrum: 0.4163537605199963
+typography_spectrum: 0.875625156564638
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3691811391618103
+  lightness: 0.3965953690931201
+  saturation: 0.6406692657619715
+  rhythmicContrast: 0.12808623840101063
+purpose: []
