@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Professional Experience
-datePublished: '2016-05-11T23:34:42.655Z'
-dateModified: '2016-05-11T23:34:22.700Z'
+datePublished: '2016-05-11T23:35:15.115Z'
+dateModified: '2016-05-11T23:34:48.050Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-11-professional-experience.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-11-professional-experience.md
 url: professional-experience/index.html
 _type: Article
 
@@ -48,7 +48,6 @@ _type: Article
 Founded Freedom and Fashion. 
 
 2008
-
 
 [0]: www.tinysponsor.com
 [1]: www.getkernl.com
