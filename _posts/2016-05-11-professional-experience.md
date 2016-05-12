@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Professional and Volunteer Experience '
-datePublished: '2016-05-12T00:17:43.690Z'
-dateModified: '2016-05-12T00:17:10.050Z'
+description: Professional and Volunteer Experience
+datePublished: '2016-05-12T00:20:29.465Z'
+dateModified: '2016-05-12T00:19:29.982Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-professional-experience.md
@@ -43,7 +43,7 @@ _type: Article
 * _Spring._ Informally, music artist manager. 
 * _Summer._ Real Estate Analyst. GMC Realty Advisors in Los Angeles. [http://www.gmcrealtyadvisors.com/Bio][4]
 
-2012  
+2012
 
 * _Summer._ RL Business Plans. Wrote / reviewed EB-5 investment business plans of $20m -$100m budgets, profit and loss statements, demographic data, projections, market barriers, team summaries and investment models.
 
@@ -60,7 +60,7 @@ _type: Article
 **2009**
 
 * _April. _Executive Director. Produced first Freedom and Fashion event with 800+ in attendance. Secured sponsorships from: TOMS, Whole Foods, Aveda, Project Runway, Clevvr Media Reps, etc. [www.freedomandfashion.com ][3]
-* _Summer. _Founding Member.__Organized and participated with C.S.C. was an urban justice "boot camp" in July 2006 called "Project Revolution." in collaboration with Newsong L.A., and Here's Life Inner City (the urban ministry of Campus Crusade for Christ), Salvation Army in Compton.  
+* _Summer. _Founding Member.__Organized and participated with C.S.C. was an urban justice "boot camp" in July 2006 called "Project Revolution." in collaboration with Newsong L.A., and Here's Life Inner City (the urban ministry of Campus Crusade for Christ), Salvation Army in Compton. 
 
 **2008**
 
@@ -77,7 +77,7 @@ _type: Article
 * Para-educator and substitue teacher at ABC Unified School District. 
 * Coordinated and participated in multiple conferences, events, and missions trips (both faith and non-faith based). 
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfba7678-356a-49eb-99e8-a06d154defcb.jpg)
+
 
 [0]: www.tinysponsor.com
 [1]: www.getkernl.com
