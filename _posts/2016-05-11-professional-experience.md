@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: Professional and Volunteer Experience
-datePublished: '2016-05-18T23:26:02.549Z'
-dateModified: '2016-05-18T23:25:57.067Z'
+datePublished: '2016-05-18T23:46:50.222Z'
+dateModified: '2016-05-18T23:46:27.987Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-professional-experience.md
@@ -14,18 +14,16 @@ authors: []
 publisher: null
 starred: true
 url: professional-experience/index.html
-_type: Article
+_type: Blurb
 
 ---
-Professional and Volunteer Experience
+**Professional and Volunteer Experience**
+
+**Current**
 
 ****
 
 ****
-
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-**2016**
 
 * Business Development for Tiny Sponsor. Tinysponsor is an online marketplace that helps creators and influencers get paid for their talent and helps businesses and brands engage new audiences. [www.tinysponsor.com][0]
 * Business Development for Kernl. Kernl is a mobile-first platform that lets people share stories and raise funds for the things they love. Users upload video and images to share their stories. [www.getkernl.com][1]
