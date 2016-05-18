@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Professional and Volunteer Experience Professional and Volunteer Experience Professional and Volunteer Experience Professional and Volunteer Experience Professional and Volunteer Experience
-datePublished: '2016-05-12T00:23:07.932Z'
-dateModified: '2016-05-12T00:22:36.329Z'
+datePublished: '2016-05-18T23:15:05.203Z'
+dateModified: '2016-05-12T00:24:38.077Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-professional-experience.md
@@ -28,6 +28,12 @@ _type: Article
 * Business Development for Tiny Sponsor. Tinysponsor is an online marketplace that helps creators and influencers get paid for their talent and helps businesses and brands engage new audiences. [www.tinysponsor.com][0]
 * Business Development for Kernl. Kernl is a mobile-first platform that lets people share stories and raise funds for the things they love. Users upload video and images to share their stories. [www.getkernl.com][1]
 * Franchise Owner for The Pizza Press. The Pizza Press is a fast-casual create your very own pizza concept with locations in Southern California and China. 
+
+****
+
+****
+
+****
 
 **2015**
 
