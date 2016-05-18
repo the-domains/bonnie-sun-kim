@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Professional and Volunteer Experience '
-datePublished: '2016-05-18T23:25:16.083Z'
-dateModified: '2016-05-18T23:18:25.733Z'
+description: Professional and Volunteer Experience
+datePublished: '2016-05-18T23:26:02.549Z'
+dateModified: '2016-05-18T23:25:57.067Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-professional-experience.md
@@ -17,13 +17,13 @@ url: professional-experience/index.html
 _type: Article
 
 ---
-**Professional and Volunteer Experience **
+Professional and Volunteer Experience
 
 ****
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
 ****
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **2016**
 
