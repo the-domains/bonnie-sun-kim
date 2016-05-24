@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Professional and Volunteer Experience
-datePublished: '2016-05-23T23:44:25.339Z'
-dateModified: '2016-05-23T23:41:52.365Z'
+datePublished: '2016-05-24T00:22:19.633Z'
+dateModified: '2016-05-24T00:22:15.924Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-professional-experience.md
@@ -81,7 +81,7 @@ _type: Blurb
 * Tsunami Relief Team. Spent 2 weeks in Phuket, Thailand with a faith-based relief team. 
 * Costa Rica Short-Term Mission Team. Spent 2 weeks in Puerto Viejo and San Jose in collaboration with Calvary Chapel. 
 * Para-educator and substitue teacher at ABC Unified School District. 
-* Coordinated and participated in multiple conferences, events, and missions trips (both faith and non-faith based). ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93b28859-63e8-4b1d-9672-676d480c372a.jpg)
+* Coordinated and participated in multiple conferences, events, and missions trips (both faith and non-faith based). 
 
 [0]: www.tinysponsor.com
 [1]: www.getkernl.com
