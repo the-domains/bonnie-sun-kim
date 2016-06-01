@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Bonnie Kim is an entrepreneur with extensive experience working with creatives, communities, and brands. She founded Freedom and Fashion, a 501(c)(3) non-profit organization bringing awareness and resources to disenfranchised through culture shifting, arts-focused projects and multi-platform networking. Bonnie has a diverse background, from producing web shows and digital media projects, to managing political event campaigns, producing large scale cultural events, doing EB-5 Investment business work, teaching at Cal State University, and speaking at various events. Across all of her work, she has focused on bringing together content, community, influencers and brand engagements around both digital and physical venues.Established partnerships and sponsorships with major brands and organizations across 10 countries around fashion and culture. Holds a Master’s in Education from UCLA.'
-datePublished: '2016-05-23T23:51:57.381Z'
-dateModified: '2016-05-18T23:24:22.746Z'
+datePublished: '2016-06-01T00:02:22.814Z'
+dateModified: '2016-06-01T00:02:20.374Z'
 title: ''
 author:
   - name: ''
@@ -19,6 +19,4 @@ url: bonnie-kim-is-successful-entrepreneur-with-extensive-experie/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/07f92bb557b038bb3974a4ff7b86efb4d9973337.jpg)
-
 Bonnie Kim is an entrepreneur with extensive experience working with creatives, communities, and brands. She founded Freedom and Fashion, a 501(c)(3) non-profit organization bringing awareness and resources to disenfranchised through culture shifting, arts-focused projects and multi-platform networking. Bonnie has a diverse background, from producing web shows and digital media projects, to managing political event campaigns, producing large scale cultural events, doing EB-5 Investment business work, teaching at Cal State University, and speaking at various events. Across all of her work, she has focused on bringing together content, community, influencers and brand engagements around both digital and physical venues.Established partnerships and sponsorships with major brands and organizations across 10 countries around fashion and culture. Holds a Master's in Education from UCLA.
